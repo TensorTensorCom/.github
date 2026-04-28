@@ -17,7 +17,7 @@ Docs explain following:
   
 ### Get Examples 
 
-[github.com/tensortensorcom/examples](https://github.com/tensortensorcom/examples)
+[github.com/tensortensorcom/tt-examples](https://github.com/tensortensorcom/tt-examples)
 
 Examples are detailed in following:
 - NodeJS (javascript)
